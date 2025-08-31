@@ -2484,6 +2484,7 @@ var cnames_active = {
   "que": "seatwork.github.io/que.js",
   "querybuilder": "mistic100.github.io/jQuery-QueryBuilder", // noCF? (don´t add this in a new PR)
   "quick": "d7b7ae5e1e-hosting.gitbook.io", // noCF
+  "quickinstaller": "arjun2014.github.io/quickinstall", 
   "quick-crud": "kingrayhan.github.io/quick-crud",
   "quickdb": "plexidev.github.io/quick.db-docs",
   "quickmongo": "quickmongo.netlify.app",
